@@ -63,7 +63,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: #1a56c4;
+    color: #bec8db;
 }
 
 .search{
@@ -77,7 +77,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #1a56c4;
+    border: 1px solid #9cb1d8;
     margin-top: 13px;
     color: #fff;
     border-right: none;
@@ -91,8 +91,8 @@ ul li a:hover{
 .btn{
     width: 100px;
     height: 40px;
-    background: #1a56c4;
-    border: 2px solid #1a56c4;
+    background: #04173a;
+    border: 2px solid #04173a;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
